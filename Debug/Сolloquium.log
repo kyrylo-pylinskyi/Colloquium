@@ -1,0 +1,12 @@
+﻿  Сolloquium.cpp
+G:\CLEAN\STUDY\WSPA\SEM 2\C++\Сolloquium\Сolloquium\Сolloquium\Сolloquium.cpp(47,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+G:\CLEAN\STUDY\WSPA\SEM 2\C++\Сolloquium\Сolloquium\Сolloquium\Сolloquium.cpp(59,36): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+G:\CLEAN\STUDY\WSPA\SEM 2\C++\Сolloquium\Сolloquium\Сolloquium\Сolloquium.cpp(111,21): warning C4018: <: несоответствие типов со знаком и без знака
+G:\CLEAN\STUDY\WSPA\SEM 2\C++\Сolloquium\Сolloquium\Сolloquium\Сolloquium.cpp(127,22): warning C4018: <: несоответствие типов со знаком и без знака
+G:\CLEAN\STUDY\WSPA\SEM 2\C++\Сolloquium\Сolloquium\Сolloquium\Сolloquium.cpp(153,13): warning C4018: >=: несоответствие типов со знаком и без знака
+G:\CLEAN\STUDY\WSPA\SEM 2\C++\Сolloquium\Сolloquium\Сolloquium\Сolloquium.cpp(181,20): warning C4018: <: несоответствие типов со знаком и без знака
+G:\CLEAN\STUDY\WSPA\SEM 2\C++\Сolloquium\Сolloquium\Сolloquium\Сolloquium.cpp(193,20): warning C4018: <: несоответствие типов со знаком и без знака
+G:\CLEAN\STUDY\WSPA\SEM 2\C++\Сolloquium\Сolloquium\Сolloquium\Сolloquium.cpp(205,20): warning C4018: <: несоответствие типов со знаком и без знака
+G:\CLEAN\STUDY\WSPA\SEM 2\C++\Сolloquium\Сolloquium\Сolloquium\Сolloquium.cpp(219,20): warning C4018: <: несоответствие типов со знаком и без знака
+G:\CLEAN\STUDY\WSPA\SEM 2\C++\Сolloquium\Сolloquium\Сolloquium\Сolloquium.cpp(235,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Сolloquium.vcxproj -> G:\CLEAN\STUDY\WSPA\SEM 2\C++\Сolloquium\Сolloquium\Debug\Сolloquium.exe
